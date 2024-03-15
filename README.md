@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 R&D Engineer
+My journey started with a strong foundation in Applied Mathematics, and I've since harnessed the power of Python to drive impactful projects in the fields of machine learning and computer vision.   
 
-🔹 Graduated in Applied Mathematics 🎓
-🔹 Python Enthusiast for ML and CV Projects 🐍
-🔹 Curious and Highly Motivated Problem-Solver 💡
-🔹 Passionate about AI and Innovation 🤖
+🔹🎓 I'm graduated in Applied Mathematics  
+🔹🐍 I'm a Python Enthusiast for ML and CV Projects   
+🔹💡 I am curious and highly motivated problem-solver   
+🔹🤖 I'm passionate about AI and Innovation   
 
-👨‍💼 My journey started with a strong foundation in Applied Mathematics, and I've since harnessed the power of Python to drive impactful projects in the fields of machine learning and computer vision.
-
-🚀 I'm constantly exploring new horizons and staying at the forefront of AI trends. I'm passionate about sharing knowledge, collaborating on exciting projects, and embracing challenges that push the boundaries of what's possible.
+I'm constantly exploring new horizons and staying at the forefront of AI trends. I'm passionate about sharing knowledge, collaborating on exciting projects, and embracing challenges that push the boundaries of what's possible.
