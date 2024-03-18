@@ -19,7 +19,7 @@ My journey started with a strong foundation in Applied Mathematics, and I've sin
 
 🔹🎓 I'm graduated in Applied Mathematics  
 🔹🐍 I'm a Python Enthusiast for ML and CV Projects   
-🔹💡 I am curious and highly motivated problem-solver   
+🔹💡 I am a curious and highly motivated problem-solver   
 🔹🤖 I'm passionate about AI and Innovation   
 
 I'm constantly exploring new horizons and staying at the forefront of AI trends. I'm passionate about sharing knowledge, collaborating on exciting projects, and embracing challenges that push the boundaries of what's possible.
