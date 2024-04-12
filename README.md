@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My journey started with a strong foundation in Applied Mathematics, and I've since harnessed the power of Python to drive impactful projects in the fields of machine learning and computer vision.   
 
 🔹🎓 I'm graduated in Applied Mathematics  
-🔹🐍 I'm a Python Enthusiast for ML and CV Projects   
+🔹🐍 I'm a Python Enthusiast for ML, CV and NLP Projects   
 🔹💡 I am a curious and highly motivated problem-solver   
 🔹🤖 I'm passionate about AI and Innovation   
 
